@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Practica4</string>
+    <string name="lblNombre">Nombre:</string>
+    <string name="lblEdad">Edad:</string>
+    <string name="hintNombre">Introduce tu nombre</string>
+    <string name="hintEdad">Introduce tu edad</string>
+    <string name="strcbNegrita">Negrita</string>
+    <string name="strcbCursiva">Cursiva</string>
+    <string name="strbtnMostrar">Mostrar contenido</string>
+    <string name="strswOsucro">Modo oscuro</string>
+    <string-array name="lista">
+        <item>No se que puedo poner en la lista</item>
+        <item>Estoy simplemente practicando</item>
+        <item>¿Para que sirve esta lista?</item>
+        <item>Adios, gracias por nada</item>
+    </string-array>
+</resources>
